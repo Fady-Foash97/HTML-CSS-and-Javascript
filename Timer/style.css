@@ -1,0 +1,16 @@
+body {
+    background: black;
+    background-image: url(empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration.jpg);
+    background-size: 1900px;
+}
+
+.clock {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17DAFE;
+    font-size: 60px;
+    font-family: orbitron;
+    letter-spacing: 7px;
+}
