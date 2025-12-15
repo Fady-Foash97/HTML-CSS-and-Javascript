@@ -1,0 +1,32 @@
+body{
+    background-color: gray;
+}
+.youtube{
+        display: flex;
+    justify-content: center;
+    margin-top: 30vh;
+    font-size: 10vh;
+}
+.logo{
+    color:white;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.square{
+    background-color: red;
+    width: 120px;
+    height: 82px;
+    margin-right: 5vh;
+    margin-top: 12vh;
+    border-radius: 30%;
+    
+}
+.arrow{
+    border-left: 35px solid white;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    position: absolute;
+    top: 44%;
+    left: 36.5%;
+    
+}
